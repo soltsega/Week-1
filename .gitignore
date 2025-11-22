@@ -1,1 +1,22 @@
 requirements.txt
+# to ignore the demo folder
+build/demo/
+
+# ignore the demo files
+Pynance_demo.ipynb
+sentiment_analysis.ipynb
+Stock_market.ipynb
+Time_series (1).ipynb
+Visualization (1).ipynb
+
+.newsData
+raw_analyst_ratings.ipynb
+raw_analyst_ratings.csv
+
+.yfinance
+AAPL.csv
+AMZN.csv
+GOOG.csv
+MSFT.csv
+NVDA.csv
+META.csv
