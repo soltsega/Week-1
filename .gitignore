@@ -205,3 +205,19 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+AMZN.csv
+AAPL.csv
+GOOG.csv
+MSFT.csv
+NVDA.csv
+raw_analyst_ratings.csv
+META.csv
+
+Time_series (1).ipynb 
+Visualizaton (1).ipynb 
+sentiment_analysis.ipynb 
+pynance_demo.ipynb 
+Stock_market.ipynb
+Visualizaton (1).ipynb 
+
